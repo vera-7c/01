@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6d20"],{"73d2":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("问卷中心")])},c=[],l={},d=l,r=t("2877"),s=Object(r["a"])(d,u,c,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0d6d20.cb7bcdcd.js.map
